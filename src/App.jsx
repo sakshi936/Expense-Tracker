@@ -22,7 +22,7 @@ const itemList = [
 
     if(item !=='' && price !=''){
    
-      console.log('Ok hai ji');
+     
     
       const newItem = {
       item: item,
